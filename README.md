@@ -1,6 +1,3 @@
-SUP SUP! 
-I'm Gustavo Pereira, Welcome!
-
 - IT Intern at Flex
 - System Analysis and Development student
  
