@@ -4,7 +4,7 @@
 
 ## About me
 
-- :brazil: 🇧🇷
+- :brazil:
 - CS undergraduate
 - I like tech
 
